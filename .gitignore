@@ -1,5 +1,6 @@
 build/
 reports/
+.idea
 
 # Node.js
 node_modules/
